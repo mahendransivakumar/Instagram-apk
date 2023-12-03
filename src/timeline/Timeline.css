@@ -1,0 +1,22 @@
+*{
+    color: black;
+}
+.timeline {
+    display: flex;
+    flex-direction:row;
+    
+  }
+  
+  .timeline__left {
+    flex: 0.7;
+  }
+  
+  .timeline__right {
+    flex: 0.3;
+  }
+  
+  .timeline__posts {
+    align-content: center;
+    margin-top: 115px;
+  }
+  
